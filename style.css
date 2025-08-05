@@ -1,0 +1,10 @@
+style{
+ .Box{
+    transform: translate(50px, 100px) ;
+    transition-timing-function: linear;
+    transition-delay: 30ms;
+    transform: rotateX('120');
+    color: blueviolet;
+    width: 200px;
+ }
+}
